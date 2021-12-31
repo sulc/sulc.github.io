@@ -1,15 +1,20 @@
 <img style="float: left;" src="milan.png">
 
 # Milan Šulc, Ph.D.
-**Computer Vision & Machine Learning**  
+**Head of Rossum AI Labs, interested in Computer Vision & Machine Learning**  
 [[Resume]](http://cmp.felk.cvut.cz/~sulcmila/cv/Milan_Sulc_resume.pdf) [[LinkedIn]](http://cz.linkedin.com/pub/milan-%C5%A1ulc/65/73a/65a/) [[PhD thesis]](http://cmp.felk.cvut.cz/~sulcmila/thesis/Sulc_PhD_thesis.pdf)  
 <milansulc01@gmail.com>  
 <br style="clear: both; border-radius: 50%; border: 2px solid #EEE" />
 
+## Rossum AI Labs
+- **We have an open position for a [Machine Learning Research Scientist](https://rossum.ai/career/machine-learning-research-scientist/)** interested in CV/ML for document understanding.
+
+
+
 ## Publications
 
 
-T. Sipka, M. Sulc and J. Matas. **The Hitchhiker's Guide to Prior-Shift Adaptation.** [[arXiv]](https://arxiv.org/abs/2106.11695) [[github]](https://github.com/sipkatom/The-Hitchhiker-s-Guide-to-Prior-Shift-Adaptation)  
+T. Sipka, M. Sulc and J. Matas. The Hitchhiker's Guide to Prior-Shift Adaptation. [[arXiv]](https://arxiv.org/abs/2106.11695) [[github]](https://github.com/sipkatom/The-Hitchhiker-s-Guide-to-Prior-Shift-Adaptation)  
 arXiv:2106.11695, 2021. Accepted to WACV 2022.
 
 
