@@ -2,8 +2,8 @@
 
 # Milan Šulc, Ph.D.
 **Head of Rossum AI Labs, interested in Computer Vision & Machine Learning**  
-[[Resume]](http://cmp.felk.cvut.cz/~sulcmila/cv/Milan_Sulc_resume.pdf) [[LinkedIn]](http://cz.linkedin.com/pub/milan-%C5%A1ulc/65/73a/65a/) [[PhD thesis]](http://cmp.felk.cvut.cz/~sulcmila/thesis/Sulc_PhD_thesis.pdf)  
-<milansulc01@gmail.com>  
+[[LinkedIn]](http://cz.linkedin.com/pub/milan-%C5%A1ulc/65/73a/65a/) [[PhD thesis]](http://cmp.felk.cvut.cz/~sulcmila/thesis/Sulc_PhD_thesis.pdf)  
+<milan.sulc@rossum.ai>  
 <br style="clear: both; border-radius: 50%; border: 2px solid #EEE" />
 
 ## Rossum AI Labs
@@ -13,6 +13,7 @@
 
 ## Publications
 
+M. Skalický, Š. Šimsa, M. Uřičář, M. Šulc. **Business Document Information Extraction: Towards Practical Benchmarks.** Accepted to CLEF 2022 [[arXiv]](https://arxiv.org/abs/2206.11229) [[PDF]](https://arxiv.org/pdf/2206.11229.pdf)
 
 L. Picek, M. Sulc, J. Matas, J. Heilmann-Clausen, T. S. Jeppesen and E. Lind. **Automatic Fungi Recognition: Deep Learning Meets Mycology.** Sensors (IF~3.6) 2022, 22, 633. [[pdf]](https://www.mdpi.com/1424-8220/22/2/633/pdf) [[open access]](https://www.mdpi.com/1424-8220/22/2/633)
 
