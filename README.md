@@ -6,11 +6,6 @@
 <milan.sulc@rossum.ai>  
 <br style="clear: both; border-radius: 50%; border: 2px solid #EEE" />
 
-## Rossum AI Labs
-- **We have an open position for a [Machine Learning Research Scientist](https://rossum.ai/career/machine-learning-research-scientist/)** interested in CV/ML for document understanding.
-
-
-
 ## Publications
 
 M. Skalický, Š. Šimsa, M. Uřičář, M. Šulc. **Business Document Information Extraction: Towards Practical Benchmarks.** Accepted to CLEF 2022 [[arXiv]](https://arxiv.org/abs/2206.11229) [[PDF]](https://arxiv.org/pdf/2206.11229.pdf)
