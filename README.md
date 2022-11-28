@@ -9,6 +9,17 @@
 ## Publications
 
 
+
+R. Aljundi, Y. Patel, M. Sulc, D. Olmeda, N. Chumerin. **Contrastive Classification and Representation Learning with Probabilistic Interpretation.** [[arXiv](https://arxiv.org/abs/2211.03646)] [[PDF](https://arxiv.org/pdf/2211.03646.pdf)]  
+Accepted to AAAI 2023.
+
+K. Olejniczak, M. Šulc. **Text Detection Forgot About Document OCR.**
+[[arXiv](https://arxiv.org/abs/2210.07903)] [[PDF](https://arxiv.org/pdf/2210.07903)]  
+arXiv:2210.07903, 2022.
+
+V. Košař, A. Hoskovec, M. Šulc, R. Bartyzal. **GLAMI-1M: A Multilingual Image-Text Fashion Dataset.** [[PDF](https://bmvc2022.mpi-inf.mpg.de/0607.pdf)] [[Supplementary](https://bmvc2022.mpi-inf.mpg.de/0607_supp.zip)] [[github](https://github.com/glami/glami-1m)] [[BMVC open-access](https://bmvc2022.mpi-inf.mpg.de/607/)]  
+The 33rd British Machine Vision Conference, 2022.
+
 L. Picek, M.Šulc, Y. Patel, J.Matas. **Plant Recognition by AI: Deep Neural Nets, Transformers and kNN in Deep Embeddings.** [[open access]](http://journal.frontiersin.org/article/10.3389/fpls.2022.787527/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=787527) [[PDF]](https://www.frontiersin.org/articles/10.3389/fpls.2022.787527/pdf)  
 Frontiers in Plant Science (IF~6.6) 2022. 
 
