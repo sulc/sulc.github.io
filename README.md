@@ -1,21 +1,30 @@
 <img style="float: left;" src="milan.png">
 
 # Milan Šulc, Ph.D.
-**Head of Rossum AI Labs, interested in Computer Vision & Machine Learning**  
-[[LinkedIn]](http://cz.linkedin.com/pub/milan-%C5%A1ulc/65/73a/65a/)
-<milan.sulc@rossum.ai>  
+**Computer Vision & Machine Learning**  
+[[LinkedIn]](http://cz.linkedin.com/pub/milan-%C5%A1ulc/65/73a/65a/) 
 <br style="clear: both; border-radius: 50%; border: 2px solid #EEE" />
 
 ## Publications
 
+Š. Šimsa, M. Šulc, M. Uřičář, Y. Patel, A. Hamdi, M. Kocián, M. Skalický, J. Matas, A. Doucet, M. Coustaty, D. Karatzas. **DocILE Benchmark for Document Information Localization and Extraction** [[arXiv](https://arxiv.org/abs/2302.05658)] [[PDF](https://arxiv.org/pdf/2302.05658.pdf)]  
+Accepted to ICDAR 2023: The 17th International Conference on Document Analysis and Recognition.
+
+
+Š. Šimsa, M. Šulc, M. Skalický, Y. Patel, A. Hamdi. **DocILE 2023 Teaser: Document Information Localization and Extraction.** [[Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_69)] [[arXiv](https://arxiv.org/abs/2301.12394)] [[PDF](https://arxiv.org/pdf/2301.12394.pdf)]  
+Advances in Information Retrieval: 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2–6, 2023, Proceedings, Part III.
+
+A. Joly, H. Goëau, S. Kahl, L. Picek, C. Botella, D. Marcos, M. Šulc, M. Hrúz, T. Lorieul, S. S. Moussi, M. Servajean, B. Kellenberger, E. Cole, A. Durso, H. Glotin, R. Planqué, W.P. Vellinga, H. Klinck, T. Denton, I. Eggel, P. Bonnet, H. Müller **LifeCLEF 2023 Teaser: Species Identification and Prediction Challenges** [[Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_65)] [[PDF](https://drive.google.com/file/d/1JP_V7jHIH9Zi9-e-jkTObybH9TMERRKl/view)]  
+Advances in Information Retrieval: 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2–6, 2023, Proceedings, Part III.
 
 
 R. Aljundi, Y. Patel, M. Sulc, D. Olmeda, N. Chumerin. **Contrastive Classification and Representation Learning with Probabilistic Interpretation.** [[arXiv](https://arxiv.org/abs/2211.03646)] [[PDF](https://arxiv.org/pdf/2211.03646.pdf)]  
 Accepted to AAAI 2023.
 
+
 K. Olejniczak, M. Šulc. **Text Detection Forgot About Document OCR.**
-[[arXiv](https://arxiv.org/abs/2210.07903)] [[PDF](https://arxiv.org/pdf/2210.07903)]  
-arXiv:2210.07903, 2022.
+[[arXiv](https://arxiv.org/abs/2210.07903)] [[CEUR-WS PDF](https://ceur-ws.org/Vol-3349/paper2.pdf)]  
+In Proceedings of the 26th Computer Vision Winter Workshop, 2023.
 
 V. Košař, A. Hoskovec, M. Šulc, R. Bartyzal. **GLAMI-1M: A Multilingual Image-Text Fashion Dataset.** [[PDF](https://bmvc2022.mpi-inf.mpg.de/0607.pdf)] [[Supplementary](https://bmvc2022.mpi-inf.mpg.de/0607_supp.zip)] [[github](https://github.com/glami/glami-1m)] [[BMVC open-access](https://bmvc2022.mpi-inf.mpg.de/607/)]  
 The 33rd British Machine Vision Conference, 2022.
